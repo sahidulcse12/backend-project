@@ -1,0 +1,27 @@
+[
+    {
+        "name": "watch",
+        "price": 4000,
+        "company": "apple"
+    },
+    {
+        "name": "s20",
+        "price": 6000,
+        "company": "samsung"
+    },
+    {
+        "name": "onePlus",
+        "price": 2000,
+        "company": "mi"
+    },
+    {
+        "name": "iphone",
+        "price": 3000,
+        "company": "apple"
+    },
+    {
+        "name": "laptop",
+        "price": 5000,
+        "company": "dell"
+    }
+]
